@@ -1,0 +1,92 @@
+﻿  ProyectoParcial.cpp
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario1.h(127,21): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario1.h(134,17): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario1.h(147,21): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario1.h(164,21): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario1.h(180,21): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario1.h(197,21): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario1.h(214,21): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario1.h(231,21): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario1.h(248,21): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario2.h(126,21): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario2.h(132,17): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario2.h(146,21): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario2.h(163,21): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario2.h(179,21): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario2.h(196,21): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario2.h(213,21): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario2.h(230,21): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario2.h(247,21): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario3.h(124,21): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario3.h(131,17): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario3.h(144,21): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario3.h(161,21): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario3.h(177,21): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario3.h(194,21): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario3.h(211,21): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario3.h(228,21): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\Escenario3.h(245,21): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\PersonajePrincipal.h(84,20): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+D:\Algoritmos\Semana 5\ProyectoParcial\ProyectoParcial\PersonajePrincipal.h(132,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/ProyectoParcial.cpp")
+  
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ProyectoParcial.vcxproj -> D:\Algoritmos\Semana 5\ProyectoParcial\x64\Debug\ProyectoParcial.exe
+  "pwsh.exe" no se reconoce como un comando interno o externo,
+  programa o archivo por lotes ejecutable.
